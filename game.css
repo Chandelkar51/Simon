@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+    background-color:rgb(219, 219, 186);
+}
+.Sbtn{
+    height: 50px;
+    width: 80px;
+    background-color: rgb(82, 173, 54);
+    border-radius: 20px;
+    border: 2px solid rgba(169, 194, 218, 0.701);
+    font-size: 20px; 
+    margin-bottom: 7px;   
+}
+/* .div{
+    display: flex;
+    margin-left: 9rem;
+    text-align: center;
+    position:relative;
+    left: 18rem;
+} */
+#d{
+    display: inline-block;
+    height: 10rem;
+    width: 10rem;
+    border-radius: 50px;
+    border: 7px solid black;
+    margin: 10px;
+}
+.d1{
+    background-color: blueviolet;
+}
+.d2{
+    background-color: brown;
+}
+.d3{
+    background-color: rgb(244, 7, 7);
+}
+.d4{
+    background-color: green;
+}
+.flash{
+    background-color: azure;
+}
+.leave{
+    background-color: rgb(247, 5, 5);
+}
